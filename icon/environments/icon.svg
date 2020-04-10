@@ -1,1 +1,86 @@
-<svg height='100px' width='100px'  fill="#0066CC" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve"><polygon fill-rule="evenodd" clip-rule="evenodd" points="51.98,95 86.87,73.246 86.87,30.513 51.98,52.267 "></polygon><g><polygon fill-rule="evenodd" clip-rule="evenodd" points="61.572,12.454 49.704,5 13.814,26.918 25.675,34.371  "></polygon><polygon fill-rule="evenodd" clip-rule="evenodd" points="71.812,18.885 35.917,40.806 50.062,49.693 85.951,27.766  "></polygon></g><polygon fill-rule="evenodd" clip-rule="evenodd" points="35.813,44.656 35.823,59.194 25.683,52.695 25.672,38.333 13.13,30.513   13.13,73.246 48.019,95 48.019,52.267 "></polygon></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="90.169998mm"
+   height="90.169998mm"
+   viewBox="0 0 90.169998 90.169998"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="411.25191"
+     inkscape:cy="150.05947"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2880"
+     inkscape:window-height="1526"
+     inkscape:window-x="-11"
+     inkscape:window-y="777"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-206.83)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0066cc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277778"
+       d="m 45.070118,206.86611 c -12.125358,0 -23.264041,4.62057 -31.857487,13.21263 C 4.6205621,228.67081 0,239.81087 0,251.93623 c 0,12.12536 4.6205621,23.26404 13.212631,31.85611 7.215408,7.21541 16.23329,11.63064 26.439042,12.94392 4.007334,0.51676 10.150627,0.25493 14.530035,-0.61736 15.766134,-3.14193 29.23646,-15.35411 33.957618,-30.78538 4.952669,-16.19057 0.704176,-33.33888 -11.211719,-45.25478 -8.593448,-8.59206 -19.732128,-13.21263 -31.857489,-13.21263 z m -0.410655,3.53467 c 6.522255,-0.0592 13.040375,1.418 18.9811,4.39457 8.141448,4.07899 14.491448,10.42761 18.570442,18.57044 5.863554,11.70368 5.863554,25.43721 0,37.14089 -2.046387,4.08313 -4.084504,6.95495 -7.331164,10.32701 -6.869518,7.13549 -15.964571,11.48595 -26.080753,12.47401 -7.544756,0.73725 -15.330673,-0.74001 -22.299412,-4.23196 -4.084506,-2.04501 -6.95496,-4.08312 -10.327019,-7.32978 C 3.1653538,269.2251 -0.1846573,249.56187 7.9292319,233.36579 12.807488,223.62995 21.18596,216.26434 31.448211,212.69246 c 4.28432,-1.49104 8.749164,-2.25034 13.211252,-2.29168 z m 0,0"
+       id="path10" />
+    <g
+       style="fill:#0066cc"
+       id="g33"
+       transform="matrix(0.63835979,0,0,0.63835979,13.275363,219.40419)">
+      <polygon
+         id="polygon10"
+         points="86.87,30.513 51.98,52.267 51.98,95 86.87,73.246 "
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+      <g
+         id="g16">
+        <polygon
+           id="polygon12"
+           points="13.814,26.918 25.675,34.371 61.572,12.454 49.704,5 "
+           style="clip-rule:evenodd;fill-rule:evenodd" />
+        <polygon
+           id="polygon14"
+           points="50.062,49.693 85.951,27.766 71.812,18.885 35.917,40.806 "
+           style="clip-rule:evenodd;fill-rule:evenodd" />
+      </g>
+      <polygon
+         id="polygon18"
+         points="25.683,52.695 25.672,38.333 13.13,30.513 13.13,73.246 48.019,95 48.019,52.267 35.813,44.656 35.823,59.194 "
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </g>
+  </g>
+</svg>
