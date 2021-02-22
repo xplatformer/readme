@@ -1,0 +1,15 @@
+{
+  "slug": "readme",
+  "namespace": "xplatformer",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "readme",
+    "brand"
+  ],
+  "languages": []
+}
